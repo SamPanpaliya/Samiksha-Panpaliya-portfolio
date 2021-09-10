@@ -57,7 +57,7 @@
 /*home section styling*/
 .home{
     display:flex;
-    background: url('images/WhatsApp\ Image\ 2021-09-10\ at\ 12.58.58.jpeg') no-repeat center;
+    background: url('bg photo.jpeg') no-repeat center;
     height: 100vh;
     background-size: cover;
     color: #fff;
